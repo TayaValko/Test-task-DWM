@@ -1063,7 +1063,7 @@ main .slider-holder .slider__item .item-text__title .wave {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  background-image: url(../img/wave.png);
+  background-image: url(../img/wave.svg);
   background-size: cover;
   vertical-align: middle;
 }
@@ -1136,7 +1136,7 @@ main .slider-holder .slider__item .item-text__catalog {
 }
 
 main .slider-holder .slider__item .item-text__catalog span .fa-right-arrow {
-  background-image: url(../img/left-arrow.png);
+  background-image: url(../img/left-arrow.svg);
   width: 15px;
   height: 13px;
   display: -webkit-inline-box;
